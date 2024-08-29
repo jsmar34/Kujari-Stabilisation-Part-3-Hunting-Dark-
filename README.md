@@ -30,6 +30,6 @@ The mod list, and screenshots can also be found in this folder.
 
 ## Gameplay
 [Watch UselessFodder's perspective of the operation underway here.](https://www.youtube.com/watch?v=Sr8kEhr1a9M)\
-[Watch UselessFodder's Styx2909's of the operation underway here. (Part 1)](https://www.youtube.com/watch?v=OargKIDcZOI)\
-[Watch UselessFodder's Styx2909's of the operation underway here. (Part 2)](https://www.youtube.com/watch?v=f0eghrpYoRQ)\
-[Watch UselessFodder's Styx2909's of the operation underway here. (Part 3)](https://www.youtube.com/watch?v=wTyD3E7agc8)
+[Watch Styx2909's perspective of the operation underway here. (Part 1)](https://www.youtube.com/watch?v=OargKIDcZOI)\
+[Watch Styx2909's perspective of the operation underway here. (Part 2)](https://www.youtube.com/watch?v=f0eghrpYoRQ)\
+[Watch Styx2909's perspective of the operation underway here. (Part 3)](https://www.youtube.com/watch?v=wTyD3E7agc8)
