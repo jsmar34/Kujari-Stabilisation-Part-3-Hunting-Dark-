@@ -1,0 +1,43 @@
+#include "defines.hpp"
+#include "dialogs.hpp"
+author            = "HoodleDoodle";
+onLoadName        = "ACTION HUNTING DARK";
+onLoadMission     = "2008 - At an all time high, relationships between the civilian populous and peacekeeping forces within Kujari are being strained. The KNFA have begun committing heinous crimes against civilians in the forms of mass killings of villages that seek aid from outside nations. The UN fears for further violence if direct action is not taken. A recent attack has resulted in the internal displacement of civilians to a joint UN-IDAP aid station. Security is required for a delivery at this aid station is required.";
+
+
+class Header {
+      gameType = Coop;
+      minPlayers = 1;
+      maxPlayers = 29;
+}
+
+
+respawnOnStart = 0;
+disableAI = true;
+
+class cfgFunctions {
+      #include "functions\functions.hpp"
+};
+
+
+class CfgSounds {
+      sounds[] = {};
+
+      class PltNet {
+            name = "PltNet";
+            sound[] = {"sounds\41-5MHz-PLT-Chatter.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class CMDNET {
+            name = "CMDNET";
+            sound[] = {"sounds\30MHz-Command-Chatter.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class TOC_RADIO {
+            name = "TOC_RADIO";
+            sound[] = {"sounds\TOC_RADIO.ogg", 5000, 1};
+            titles[] = {};
+      };
+};
